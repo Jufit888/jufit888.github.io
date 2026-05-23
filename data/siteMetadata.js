@@ -1,8 +1,9 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Next.js Starter Blog',
+  title: 'The Time Machine with CC',
   author: 'Kevin Pan',
-  headerTitle: 'KevinwindBlog',
+  headerTitle: 'Timewind Blog',
+}
   description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
   theme: 'system', // system, dark or light
